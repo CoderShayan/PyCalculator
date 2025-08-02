@@ -6,3 +6,5 @@ A Simple and responsivwe calculator application built with Python and Tkinter.
 - Toggle positive/negative
 - Clear (AC) button
 - Responsive GUI
+
+	F:\Program\Projects\Calculator\.git\calc.png
