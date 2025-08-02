@@ -7,4 +7,4 @@ A Simple and responsivwe calculator application built with Python and Tkinter.
 - Clear (AC) button
 - Responsive GUI
 
-	F:\Program\Projects\Calculator\.git\calc.png
+![image alt](https://raw.githubusercontent.com/CoderShayan/PyCalculator/refs/heads/main/calc.png)
