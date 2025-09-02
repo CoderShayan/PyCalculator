@@ -1,5 +1,5 @@
-## A Simple & Responsive GUI Calculator Application built with Python and Tkinter.
-### Features
+# A Simple & Responsive GUI Calculator Application built with Python and Tkinter.
+## Features
 - Basic arithmetic operations: addition, subtraction, multiplication, division
 - Percentage calculation
 - Square root function
