@@ -7,4 +7,4 @@
 - Clear (AC) button
 - Responsive GUI
 
-![image alt](https://raw.githubusercontent.com/CoderShayan/PyCalculator/refs/heads/main/calc.png)
+![Python Calculator](https://raw.githubusercontent.com/CoderShayan/PyCalculator/refs/heads/main/calc.png)
